@@ -6,6 +6,6 @@
 - We add all calculations to calculate r2, slope, intercept and finally Estimated Transactions.
 - See the pbix file for details.
 
-![image](https://github.com/user-attachments/assets/44981403-1942-4bea-aa6a-777071d51c05)
+![image](https://github.com/user-attachments/assets/0cec110a-d007-457b-b47b-64914711c999)
 
 ![image](https://github.com/user-attachments/assets/3d68cc90-f356-46ba-9160-cf16f0616dc0)
